@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><company>
+	<staff id="1001">
+		<firstname>yong</firstname>
+		<lastname>mook kim</lastname>
+		<nickname>mkyong</nickname>
+		<salary>100000</salary>
+	</staff>
+	<staff id="2001">
+		<firstname>low</firstname>
+		<lastname>yin fong</lastname>
+		<nickname>fong fong</nickname>
+		<salary>200000</salary>
+	</staff>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><DigestValue>e/Cj8t3yJXR7SvT+Z4l2rtu7Lmmyyn6tIo/WdgHYxPs=</DigestValue></Reference></SignedInfo><SignatureValue>doKticmanEB1WWW6OmaxrSIaL7Xkqwj/nP83fyJKyxGEWqY6sXbZCN9zpm05KqWT33xbqAQHDLZm
+goaFOWxzIUNk9sUQL0QQpVXCXIEGU9MFQASS9dp+1btFPljg98EGwV5x0LTqYYHuR+phtnw+Q38e
+rw6B05hyQFHhs+E7KRLNHYlv0m1B8ZVojGM64zf24WYVhufhY1pKhURsX7GIhqR5PouCvSXnRwNx
+zfiEhbt8xLHsZr0ESMl47G+2DhvW7wL4CLN/0FM82XR0wzZuslC2YHzqwA4zBe44+9VhJa4JRUDC
+44fjLSqs9qu3zTVNVIi0JAr3NwOGRcvAyza5kw==</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>g4fWV5+GRbNQTnVpG5naG/4xC167blIngQJdOJVss7LSBjFkOOitvJtpV0Qvsld1HzW9A+P8aR17
+KdgZzqsc5+akR0+volN2ZH9M+q0Xza7zSQjgBzovv2R6VQWLnEyFb4i3PzEqQMDbF8n30oNWj0Bj
+BvNn+eTkxmk8ifhLDAwrrDasje5CudTNo9pIv73VcJqA3F+pKwW7MGIZeDJpLnbbqz+ELOIR3ev5
+1Ewb889QQyqlMiu2LKaDVmpsFzAlFo25ayLTJ896/cL0Lff+/W+CKeOo3f/SrAcZWp0RWmiKZDET
+9LqCodeH+2x3M8+KK2IwjABk378e8/TipjfENQ==</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue></KeyInfo></Signature></company>
